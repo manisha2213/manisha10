@@ -1,0 +1,1102 @@
+[
+  {
+    "_id": "f47fa89c-1379-479a-b5ef-424e9fe6b328",
+    "name": "Shoes Pro",
+    "category": "Fashion",
+    "price": 820.93,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 0
+    }
+  },
+  {
+    "_id": "9efb0327-602d-4d7f-93f5-d8d3b926265a",
+    "name": "Shoes B",
+    "category": "Fashion",
+    "price": 1558.13,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 1
+    }
+  },
+  {
+    "_id": "c5af8613-c36d-429f-af6b-21d1778a8307",
+    "name": "Diary Pro",
+    "category": "Books",
+    "price": 156.96,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 2
+    }
+  },
+  {
+    "_id": "90e994b2-78af-46b6-a8f7-5d7741dcae99",
+    "name": "Milk Packet X",
+    "category": "Groceries",
+    "price": 2280.61,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 3
+    }
+  },
+  {
+    "_id": "1697771a-8c86-4264-a9e4-b6a861501973",
+    "name": "Sugar Pack X",
+    "category": "Groceries",
+    "price": 2391.2,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 4
+    }
+  },
+  {
+    "_id": "89cfc893-95a1-4d34-b651-932eb4942319",
+    "name": "Guidebook X",
+    "category": "Books",
+    "price": 899.65,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 5
+    }
+  },
+  {
+    "_id": "48fa062b-cc46-49ce-9647-42b2ed29153b",
+    "name": "Panda Plush A",
+    "category": "Soft Toys",
+    "price": 2961.86,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 6
+    }
+  },
+  {
+    "_id": "0b01a23a-764b-470c-ba2f-0343d5ed24b3",
+    "name": "Shoes 2024",
+    "category": "Fashion",
+    "price": 2243.63,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 7
+    }
+  },
+  {
+    "_id": "c79d9039-0c45-4b8e-a3a6-de8a5630cac7",
+    "name": "Headphones A",
+    "category": "Electronics",
+    "price": 6010.71,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 8
+    }
+  },
+  {
+    "_id": "21a881aa-fe7f-4566-95d2-7c441222dd84",
+    "name": "Novel X",
+    "category": "Books",
+    "price": 77.96,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 9
+    }
+  },
+  {
+    "_id": "394f966b-4cc0-4b7d-b3ab-a24e7bf690e7",
+    "name": "Rice Bag Lite",
+    "category": "Groceries",
+    "price": 813.36,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 10
+    }
+  },
+  {
+    "_id": "31ef5b65-1273-4ab0-a05b-38c7044a64ea",
+    "name": "Guidebook Pro",
+    "category": "Books",
+    "price": 173.0,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 11
+    }
+  },
+  {
+    "_id": "314dd960-37c3-4edb-9044-e1170860d3d4",
+    "name": "Fox Plush B",
+    "category": "Soft Toys",
+    "price": 812.99,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 12
+    }
+  },
+  {
+    "_id": "578150c9-92da-4317-8b72-63ee1b82d605",
+    "name": "Dumbbells 2024",
+    "category": "Sports",
+    "price": 33898.44,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 13
+    }
+  },
+  {
+    "_id": "1a81b2b9-7dd9-4f1a-b48e-50e74a8eee74",
+    "name": "Dumbbells X",
+    "category": "Sports",
+    "price": 32097.12,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 14
+    }
+  },
+  {
+    "_id": "529dce32-a646-4d23-97fa-82305bced021",
+    "name": "Shoes X",
+    "category": "Fashion",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 15
+    }
+  },
+  {
+    "_id": "290c42ac-b157-4d51-9eb2-168c36c0dfc3",
+    "name": "Fox Plush Lite",
+    "category": "Soft Toys",
+    "price": 2675.18,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 16
+    }
+  },
+  {
+    "_id": "f0bcede7-7d1b-4867-ab06-43c2b7c07148",
+    "name": "Guidebook A",
+    "category": "Books",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 17
+    }
+  },
+  {
+    "_id": "6e7410b0-f52c-4ed9-8ce8-24d85ce91117",
+    "name": "Yoga Mat S",
+    "category": "Sports",
+    "price": 45936.78,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 18
+    }
+  },
+  {
+    "_id": "ca204369-b845-4c6a-a2f2-2f74a3f5c0f1",
+    "name": "Diary X",
+    "category": "Books",
+    "price": 474.59,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 19
+    }
+  },
+  {
+    "_id": "d7f929d0-0e43-416f-b522-5ea77c160cd0",
+    "name": "Shoes 2024",
+    "category": "Fashion",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 20
+    }
+  },
+  {
+    "_id": "13a2f0f8-791f-4854-9b41-7a5b92671606",
+    "name": "Yoga Mat Lite",
+    "category": "Sports",
+    "price": 17734.59,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 21
+    }
+  },
+  {
+    "_id": "30b8942c-e7a3-43cb-9f05-acd410a08a60",
+    "name": "Skipping Rope Lite",
+    "category": "Sports",
+    "price": 19875.29,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 22
+    }
+  },
+  {
+    "_id": "cb3cc582-defe-4749-9d34-60dfdceeb39d",
+    "name": "Keyboard Pro",
+    "category": "Electronics",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 23
+    }
+  },
+  {
+    "_id": "a8bb3e82-3442-42d2-b9a6-d64f9b471a90",
+    "name": "Fox Plush B",
+    "category": "Soft Toys",
+    "price": 862.79,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 24
+    }
+  },
+  {
+    "_id": "0ff21eca-375d-4383-8120-e85d365b4b10",
+    "name": "Cap Pro",
+    "category": "Fashion",
+    "price": 4229.82,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 25
+    }
+  },
+  {
+    "_id": "5686a1da-0e3e-4ff6-a244-e86cfbbc6d15",
+    "name": "Flour Pack 2024",
+    "category": "Groceries",
+    "price": 2882.71,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 26
+    }
+  },
+  {
+    "_id": "8e00ec3b-2cb0-44be-a53c-c8d9a806d12e",
+    "name": "Flour Pack A",
+    "category": "Groceries",
+    "price": 176.49,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 27
+    }
+  },
+  {
+    "_id": "0c31d669-343f-4b82-b99e-8fa53a8f1042",
+    "name": "Bunny Plush B",
+    "category": "Soft Toys",
+    "price": 867.71,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 28
+    }
+  },
+  {
+    "_id": "5e5a86f3-c1c0-42dc-8c7c-00a51cdabe72",
+    "name": "Cap 2024",
+    "category": "Fashion",
+    "price": 7637.66,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 29
+    }
+  },
+  {
+    "_id": "5980be16-165b-4d8f-8e89-ad63b5a34a5f",
+    "name": "Shoes S",
+    "category": "Fashion",
+    "price": 3734.51,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 30
+    }
+  },
+  {
+    "_id": "3507dc92-1ab4-48ea-a26e-54d711c8b638",
+    "name": "Shoes A",
+    "category": "Fashion",
+    "price": 4652.31,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 31
+    }
+  },
+  {
+    "_id": "da0152d5-d855-45a2-8253-adf39599aa3c",
+    "name": "Teddy Bear S",
+    "category": "Soft Toys",
+    "price": 2308.46,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 32
+    }
+  },
+  {
+    "_id": "03edbd0a-35a1-4e97-8b19-7d59c2cb0a99",
+    "name": "T-Shirt A",
+    "category": "Fashion",
+    "price": null,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 33
+    }
+  },
+  {
+    "_id": "9b66906f-6eef-4eea-8b92-bb0fbb1dde8b",
+    "name": "Fox Plush S",
+    "category": "Soft Toys",
+    "price": 2515.36,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 34
+    }
+  },
+  {
+    "_id": "a61376c9-515d-4c24-b815-e434e5b5cd62",
+    "name": "Fox Plush A",
+    "category": "Soft Toys",
+    "price": 1129.74,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 35
+    }
+  },
+  {
+    "_id": "bed3a1bf-6b06-4065-be53-78e1ca24ecb4",
+    "name": "Fox Plush 2024",
+    "category": "Soft Toys",
+    "price": null,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 36
+    }
+  },
+  {
+    "_id": "a0bb2bdc-f399-4acf-b0bd-eb587359a063",
+    "name": "Dress B",
+    "category": "Fashion",
+    "price": 7648.53,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 37
+    }
+  },
+  {
+    "_id": "a0d5c251-7d0f-4c9d-90dd-77b830582533",
+    "name": "Headphones Lite",
+    "category": "Electronics",
+    "price": 125329.85,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 38
+    }
+  },
+  {
+    "_id": "b8e26635-dbe4-4165-9ac9-93a1943c85d0",
+    "name": "Milk Packet X",
+    "category": "Groceries",
+    "price": 2246.05,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 39
+    }
+  },
+  {
+    "_id": "daddb77f-38ca-4e60-a806-9147510b618a",
+    "name": "Yoga Mat Lite",
+    "category": "Sports",
+    "price": 63503.96,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 40
+    }
+  },
+  {
+    "_id": "425b3f3c-73a3-4bae-8a0e-dd635733f043",
+    "name": "Smartphone 2024",
+    "category": "Electronics",
+    "price": 41862.52,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 41
+    }
+  },
+  {
+    "_id": "b8bcea48-6138-4e0b-bd38-74576267a0ea",
+    "name": "Novel Lite",
+    "category": "Books",
+    "price": 1233.39,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 42
+    }
+  },
+  {
+    "_id": "fdadd549-44d4-4715-b040-c8ba94977ac6",
+    "name": "Guidebook Pro",
+    "category": "Books",
+    "price": 280.85,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 43
+    }
+  },
+  {
+    "_id": "dce3dd97-3635-4a17-8a59-b06db1038d3f",
+    "name": "Novel B",
+    "category": "Books",
+    "price": 1470.7,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 44
+    }
+  },
+  {
+    "_id": "d1a51a29-5c00-4050-936a-47afe3249cb9",
+    "name": "Yoga Mat Lite",
+    "category": "Sports",
+    "price": 77253.93,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 45
+    }
+  },
+  {
+    "_id": "38ecb78e-5e3a-4c16-b9da-251a759e4a21",
+    "name": "Dumbbells B",
+    "category": "Sports",
+    "price": 62978.57,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 46
+    }
+  },
+  {
+    "_id": "be6c5cac-8f47-4006-b51b-4c8c14d6d4c2",
+    "name": "Dumbbells B",
+    "category": "Sports",
+    "price": 63198.4,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 47
+    }
+  },
+  {
+    "_id": "8ea26de8-b41f-47de-9d24-0a06e5376f09",
+    "name": "Milk Packet 2024",
+    "category": "Groceries",
+    "price": 930.45,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 48
+    }
+  },
+  {
+    "_id": "a74cac7d-4cf3-4d58-98d4-e8612ba49415",
+    "name": "Flour Pack X",
+    "category": "Groceries",
+    "price": 674.44,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 49
+    }
+  },
+  {
+    "_id": "38c2c2f7-73aa-4201-952b-9aac9f68eddc",
+    "name": "Milk Packet B",
+    "category": "Groceries",
+    "price": 2103.16,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 50
+    }
+  },
+  {
+    "_id": "5b5ac995-f1d0-4984-aff8-d285300f1c75",
+    "name": "Jeans 2024",
+    "category": "Fashion",
+    "price": 4908.21,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 51
+    }
+  },
+  {
+    "_id": "7d209878-a9ab-4284-b485-13cfac405233",
+    "name": "Treadmill Lite",
+    "category": "Sports",
+    "price": 2103.07,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 52
+    }
+  },
+  {
+    "_id": "cb6b62da-b8f7-411c-a2c4-e60f405656da",
+    "name": "Novel A",
+    "category": "Books",
+    "price": 1239.52,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 53
+    }
+  },
+  {
+    "_id": "3b4a6edc-4d18-4f04-abca-92306d8b09ad",
+    "name": "Flour Pack Lite",
+    "category": "Groceries",
+    "price": 1797.68,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 54
+    }
+  },
+  {
+    "_id": "504d22f5-85dd-40ff-a408-b63c4cf0c566",
+    "name": "Bunny Plush Lite",
+    "category": "Soft Toys",
+    "price": 1926.32,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 55
+    }
+  },
+  {
+    "_id": "bf43f1e6-a50c-454a-bb2b-2be02d724071",
+    "name": "Shoes Lite",
+    "category": "Fashion",
+    "price": 7578.18,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 56
+    }
+  },
+  {
+    "_id": "36632967-452d-4ca1-a71b-86d71b619e7f",
+    "name": "Mouse 2024",
+    "category": "Electronics",
+    "price": 110875.69,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 57
+    }
+  },
+  {
+    "_id": "8705e0c2-4460-404f-a272-287e5a7814cd",
+    "name": "Bunny Plush 2024",
+    "category": "Soft Toys",
+    "price": 1327.97,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 58
+    }
+  },
+  {
+    "_id": "74c947be-3801-4386-9abb-08ce8b8fd706",
+    "name": "Panda Plush B",
+    "category": "Soft Toys",
+    "price": 384.49,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 59
+    }
+  },
+  {
+    "_id": "8792d18d-9e0e-4964-8845-90b8ca926a2a",
+    "name": "Notebook Pro",
+    "category": "Books",
+    "price": 1143.4,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 60
+    }
+  },
+  {
+    "_id": "4de0b9d3-e7e7-4f2f-8510-afffd0d16fe6",
+    "name": "Treadmill Lite",
+    "category": "Sports",
+    "price": 55350.02,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 61
+    }
+  },
+  {
+    "_id": "ac286c62-a315-4378-806c-31732f7c708b",
+    "name": "Fox Plush Pro",
+    "category": "Soft Toys",
+    "price": 775.73,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 62
+    }
+  },
+  {
+    "_id": "c6fc45a4-4db7-44d0-b6ef-0bf900fed808",
+    "name": "T-Shirt A",
+    "category": "Fashion",
+    "price": 703.23,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 63
+    }
+  },
+  {
+    "_id": "13f338cc-0a4f-4ed6-8762-dd3ec10e67da",
+    "name": "Mouse A",
+    "category": "Electronics",
+    "price": 3774.78,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 64
+    }
+  },
+  {
+    "_id": "e655b8db-fbbe-42f3-ad34-8d00a2b3f86a",
+    "name": "Smartphone Pro",
+    "category": "Electronics",
+    "price": 101330.21,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 65
+    }
+  },
+  {
+    "_id": "df0c9b26-47ba-44a8-9abf-02f19dd600f2",
+    "name": "T-Shirt Pro",
+    "category": "Fashion",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 66
+    }
+  },
+  {
+    "_id": "c21b8ece-4307-4f8c-88c7-9dfb1f8cf193",
+    "name": "Treadmill 2024",
+    "category": "Sports",
+    "price": 79376.44,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 67
+    }
+  },
+  {
+    "_id": "d894e9e4-fbe7-4998-a774-bd91bec06408",
+    "name": "Rice Bag 2024",
+    "category": "Groceries",
+    "price": 1041.89,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 68
+    }
+  },
+  {
+    "_id": "668df6ed-bcaa-442e-bf1e-f428efd52eb0",
+    "name": "Milk Packet B",
+    "category": "Groceries",
+    "price": 1470.25,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 69
+    }
+  },
+  {
+    "_id": "9d6844f5-ed12-4e6e-b208-3db8f798eee0",
+    "name": "Notebook Pro",
+    "category": "Books",
+    "price": 120.88,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 70
+    }
+  },
+  {
+    "_id": "cb61fc0a-9131-4250-953e-4ef1e4400b18",
+    "name": "Sugar Pack A",
+    "category": "Groceries",
+    "price": 993.0,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 71
+    }
+  },
+  {
+    "_id": "ea32144b-9dd8-49da-bbc7-4a438f745ca2",
+    "name": "Cap S",
+    "category": "Fashion",
+    "price": 5892.35,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 72
+    }
+  },
+  {
+    "_id": "df5ca985-bba3-4a04-a3f7-3ab57b582ebf",
+    "name": "Dumbbells A",
+    "category": "Sports",
+    "price": 50060.55,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 73
+    }
+  },
+  {
+    "_id": "7e1b3896-6372-4e33-b4a5-6fb66427a774",
+    "name": "Keyboard A",
+    "category": "Electronics",
+    "price": 54453.94,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 74
+    }
+  },
+  {
+    "_id": "4d9e0aa6-929c-481e-b88b-27a604ef2eac",
+    "name": "Oil Bottle Lite",
+    "category": "Groceries",
+    "price": 1667.33,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 75
+    }
+  },
+  {
+    "_id": "fa2138db-2e73-4e8f-8d0e-7bceeca96ab6",
+    "name": "Yoga Mat S",
+    "category": "Sports",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 76
+    }
+  },
+  {
+    "_id": "c6d75988-f30f-46bf-bce7-177660baf978",
+    "name": "Novel Pro",
+    "category": "Books",
+    "price": 1111.88,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 77
+    }
+  },
+  {
+    "_id": "d69787b6-3be5-470a-ad37-0c2654a7bf05",
+    "name": "Dumbbells B",
+    "category": "Sports",
+    "price": 37690.46,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 78
+    }
+  },
+  {
+    "_id": "acd11088-aa61-441c-aae5-2d7637b4b438",
+    "name": "Fox Plush 2024",
+    "category": "Soft Toys",
+    "price": 2297.6,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 79
+    }
+  },
+  {
+    "_id": "2e50d834-7454-4462-b387-e439bb4cdc6a",
+    "name": "Notebook 2024",
+    "category": "Books",
+    "price": 521.69,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 80
+    }
+  },
+  {
+    "_id": "99659096-b6da-4c6a-bfe1-f759ad27f8dc",
+    "name": "T-Shirt A",
+    "category": "Fashion",
+    "price": 1637.68,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 81
+    }
+  },
+  {
+    "_id": "041c2d1c-e38b-42c1-b4d0-8c07d74bc92c",
+    "name": "Notebook Lite",
+    "category": "Books",
+    "price": 1451.14,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 82
+    }
+  },
+  {
+    "_id": "45c4b69d-0b2a-4038-8047-de33fabcaf67",
+    "name": "Sugar Pack A",
+    "category": "Groceries",
+    "price": 1444.65,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 83
+    }
+  },
+  {
+    "_id": "ad8fb12b-d54b-4dfc-8fe8-f54bdff50016",
+    "name": "Jeans Lite",
+    "category": "Fashion",
+    "price": 6457.48,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 84
+    }
+  },
+  {
+    "_id": "30c0b806-86d7-4867-821e-5f295f1a41e6",
+    "name": "Skipping Rope S",
+    "category": "Sports",
+    "price": 27339.41,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 85
+    }
+  },
+  {
+    "_id": "0cd5a2e7-12a5-4d84-b854-97640d207fbb",
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 68772.21,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 86
+    }
+  },
+  {
+    "_id": "ce5b57d3-948e-4c32-b80c-0e56b2754739",
+    "name": "Monitor Lite",
+    "category": "Electronics",
+    "price": 105976.73,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 87
+    }
+  },
+  {
+    "_id": "3f800959-260e-473c-9e1c-1f5269538991",
+    "name": "Guidebook Lite",
+    "category": "Books",
+    "price": 1124.28,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 88
+    }
+  },
+  {
+    "_id": "72332136-31ef-4139-a57a-2052fe5e8a61",
+    "name": "Treadmill X",
+    "category": "Sports",
+    "price": 25214.76,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 89
+    }
+  },
+  {
+    "_id": "39336bc8-d9bd-4f8d-afcb-aff9a27160aa",
+    "name": "Monitor 2024",
+    "category": "Electronics",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 90
+    }
+  },
+  {
+    "_id": "1aa6b03b-76db-4db9-a886-f57178fe6af7",
+    "name": "Shoes Pro",
+    "category": "Fashion",
+    "price": 1816.12,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 91
+    }
+  },
+  {
+    "_id": "139cc65b-6b88-4cd4-bec6-dcc9ed85b1d3",
+    "name": "Novel S",
+    "category": "Books",
+    "price": 1407.15,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 92
+    }
+  },
+  {
+    "_id": "3a17bb95-25df-410b-90d4-f12266131ce3",
+    "name": "Milk Packet Lite",
+    "category": "Groceries",
+    "price": 703.12,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 93
+    }
+  },
+  {
+    "_id": "3c622926-7283-42a4-b088-6b4d81809518",
+    "name": "Guidebook A",
+    "category": "Books",
+    "price": 735.38,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 94
+    }
+  },
+  {
+    "_id": "79942955-986e-49bb-8c6a-1b63bbfb4717",
+    "name": "Jeans A",
+    "category": "Fashion",
+    "price": 5146.94,
+    "inStock": false,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 95
+    }
+  },
+  {
+    "_id": "b613d863-8405-4134-ac42-26ec37728de5",
+    "name": "Bunny Plush X",
+    "category": "Soft Toys",
+    "price": 1313.0,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 96
+    }
+  },
+  {
+    "_id": "ece42de8-1176-468a-8e63-87e4451b6fd7",
+    "name": "Oil Bottle Lite",
+    "category": "Groceries",
+    "price": 2714.06,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 97
+    }
+  },
+  {
+    "_id": "d39eccc1-27cd-41e9-872f-e4a2ba8333fd",
+    "name": "T-Shirt X",
+    "category": "Fashion",
+    "price": null,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 98
+    }
+  },
+  {
+    "_id": "530bcd0d-e416-4e24-883a-9dd9bd6681d6",
+    "name": "Oil Bottle B",
+    "category": "Groceries",
+    "price": 794.21,
+    "inStock": true,
+    "meta": {
+      "seeded_by": "items_fixed.py",
+      "index": 99
+    }
+  }
+]
